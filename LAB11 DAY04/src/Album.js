@@ -156,10 +156,10 @@ export default function Album() {
                   />
                   <CardContent sx={{ flexGrow: 1 }}>
                     <Typography gutterBottom variant="h5" component="h2">
-                      recentPostsRef
+                      Sorry
                     </Typography>
                     <Typography>
-                      Tolol
+                      I still don't know how to get posts from google firebase to the code
                     </Typography>
                   </CardContent>
                   <CardActions>
