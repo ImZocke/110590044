@@ -1,0 +1,1 @@
+Sorry, I still don't know how to get the posts from google firebase to the code :(
